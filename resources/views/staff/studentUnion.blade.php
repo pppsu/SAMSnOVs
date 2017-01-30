@@ -24,7 +24,7 @@ Staff
 <section>
 	<div >
 		<div class="row">
-			<h3>Organization Information</h3>
+			<h3>Studen Union Information</h3>
 		</div>	
 		<div class="row">
 			<div class="col l6 m6 s12">
@@ -42,37 +42,35 @@ Staff
 	<table class="striped">	
 		<thead>
 			<tr>
-				<th data-field="ora">Organizetion Name</th>
-				<th data-field="adviser">Adviser</th>
+				<th data-field="ora">First Name</th>
+				<th data-field="adviser">Last Namer</th>
 				<th data-field="manage">	</th>
 			</tr>
 		</thead>
 
 		<tbody >
 			<tr class="jsgrid-alt-row">
-				<td style="width: 150px;">PSU PIX</td>
-				<td style="width: 150px;">Dr.Adisak Intana</td>
-				<td style="width: 50px;">
+				<td>Thirawat</td>
+				<td>Sae-Siew</td>
+				<td>
 					<a href=""><i class="Tiny material-icons ">mode_edit</i></a>
 					<a href=""><i class="Tiny material-icons " style="color: red">delete</i></a>
 				</td>
-
 			</tr>
 
 			<tr class="jsgrid-alt-row">
-				<td style="width: 150px;">Flower</td>
-				<td style="width: 150px;">Aj.Jamikorn Hiranrat</td>
-				<td style="width: 50px;">
+				<td>Thonchai</td>
+				<td>la</td>
+				<td>
 					<a href=""><i class="Tiny material-icons ">mode_edit</i></a>
 					<a href=""><i class="Tiny material-icons " style="color: red">delete</i></a>
 				</td>
-
 			</tr>
 
 			<tr class="jsgrid-alt-row">
-				<td style="width: 150px;">Software Gang</td>
-				<td style="width: 150px;">Dr.Aziz Nanthaamornphong</td>
-				<td style="width: 50px;">
+				<td>Software Gang</td>
+				<td>Dr.Aziz Nanthaamornphong</td>
+				<td>
 					<a href=""><i class="Tiny material-icons ">mode_edit</i></a>
 					<a href=""><i class="Tiny material-icons " style="color: red">delete</i></a>
 				</td>

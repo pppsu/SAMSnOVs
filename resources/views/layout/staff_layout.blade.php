@@ -89,11 +89,11 @@
                                 <ul class="collapsible">
                                     <li>
                                         <div class="collapsible-header">
-                                            Studen union
+                                            Student union
                                         </div>
                                         <div class="collapsible-body">
                                             <ul>
-                                                <li><a>Information</a></li>
+                                                <li><a href="studentUnion">Information</a></li>
                                                 <li><a>Add Student union</a></li>
                                             </ul>
                                         </div>
@@ -109,7 +109,7 @@
                                         </div>
                                         <div class="collapsible-body">
                                             <ul>
-                                                <li><a>Information</a></li>
+                                                <li><a href="studentCouncil">Information</a></li>
                                                 <li><a>Add Student Councill</a></li>
                                             </ul>
                                         </div>
@@ -121,12 +121,12 @@
                                 <ul class="collapsible">
                                     <li>
                                         <div class="collapsible-header  truncate">
-                                            Head of student activity section
+                                            Head Of Student Activity Section
                                         </div>
                                         <div class="collapsible-body">
                                             <ul>
-                                                <li><a>Information</a></li>
-                                                <li><a class="truncate">Add Head of student activity section</a></li>
+                                                <li><a href="headOfActivity">Information</a></li>
+                                                <li><a class="truncate">Add Head Of Student Activity Section</a></li>
                                             </ul>
                                         </div>
                                     </li> 
@@ -141,8 +141,8 @@
                                         </div>
                                         <div class="collapsible-body">
                                             <ul>
-                                                <li><a>Information</a></li>
-                                                <li><a class="truncate">Add Head of student affairs division</a></li>
+                                                <li><a href="headOfAffairs">Information</a></li>
+                                                <li><a class="truncate">Add Head Of Student Affairs Division</a></li>
                                             </ul>
                                         </div>
                                     </li> 

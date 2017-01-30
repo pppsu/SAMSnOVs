@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 Route::get('/login', function () {
     return view('auth.login');
 });
@@ -29,6 +30,22 @@ Route::get('/organizeation', function () {
 
 Route::get('/addOrganization', function () {
     return view('staff.add_organize');
+});
+
+Route::get('/studentUnion', function () {
+    return view('staff.studentUnion');
+});
+
+Route::get('/studentCouncil', function () {
+    return view('staff.studentCouncil');
+});
+
+Route::get('/headOfActivity', function () {
+    return view('staff.headOfActivity');
+});
+
+Route::get('/headOfAffairs', function () {
+    return view('staff.headOfAffairs');
 });
 
 
