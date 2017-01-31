@@ -16,9 +16,9 @@ Route::get('/', function () {
 });
 
 
-Route::get('/login', function () {
+/*Route::get('/login', function () {
     return view('auth.login');
-});
+});*/
 
 Route::get('/staff', function () {
     return view('staff.home');
@@ -46,6 +46,11 @@ Route::get('/headOfActivity', function () {
 
 Route::get('/headOfAffairs', function () {
     return view('staff.headOfAffairs');
+});
+
+
+Route::get('/studentd', function () {
+    return view('student.index');
 });
 
 
